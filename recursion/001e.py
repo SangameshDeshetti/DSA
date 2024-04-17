@@ -1,6 +1,4 @@
-"""
-https://www.geeksforgeeks.org/sum-triangle-from-array/
-"""
+# https://www.geeksforgeeks.org/sum-triangle-from-array/
 
 
 def sum_tri_from_list(lst):
